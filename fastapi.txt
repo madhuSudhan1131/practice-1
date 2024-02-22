@@ -1,0 +1,15 @@
+path and query parameter
+CRUD operations
+Exceptions
+SQLalchemy
+Database CRUD
+athendication and autherization
+JWT
+
+PACKAGE:
+fastapi
+sqlalchemy
+uvicorn
+pydantics
+
+
