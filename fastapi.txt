@@ -12,4 +12,12 @@ sqlalchemy
 uvicorn
 pydantics
 
+fastapi
+sqlalchemy
+uvicorn
+pydantics
 
+fastapi
+sqlalchemy
+uvicorn
+pydantics
