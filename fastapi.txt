@@ -21,3 +21,7 @@ fastapi
 sqlalchemy
 uvicorn
 pydantics
+
+django
+flask
+fastapi
