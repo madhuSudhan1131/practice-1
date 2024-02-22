@@ -20,4 +20,6 @@ pydantics
 fastapi
 sqlalchemy
 uvicorn
-pydantics
+pydantic
+
+hi hello
